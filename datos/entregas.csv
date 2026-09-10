@@ -1,0 +1,713 @@
+﻿id_entrega,fecha,ciudad,servicio,distancia_km,costo_base,estado,vehiculo
+1001,2026-01-01,Bogotá,Programada,68.0,27831.0,Cancelada,Moto
+1002,2026-01-01,Bucaramanga,Programada,20.0,21696.0,En tránsito,Camioneta
+1003,2026-01-02,Villavicencio,Express,24.0,9304.0,Cancelada,Moto
+1004,2026-01-02,Cali,Express,26.0,8234.0,Entregada,Moto
+1005,2026-01-03,Cali,Express,15.0,26779.0,Entregada,Moto
+1006,2026-01-03,Ibagué,Programada,13.0,11879.0,Cancelada,Furgón
+1007,2026-01-04,Bogotá,Express,28.0,24148.0,En tránsito,Furgón
+1008,2026-01-04,Bucaramanga,Programada,70.0,8466.0,En tránsito,Furgón
+1009,2026-01-05,Medellín,Estándar,1.0,12013.0,Cancelada,Moto
+1010,2026-01-05,Bogotá,Estándar,23.0,12088.0,Entregada,Camioneta
+1011,2026-01-06, bogota ,Programada,5.0,12027.0,Pendiente,Furgón
+1012,2026-01-06,Ibagué,Programada,45.0,21869.0,En tránsito,Camioneta
+1013,2026-01-07,Bucaramanga,Programada,20.0,27860.0,Entregada,Moto
+1014,2026-01-07,Bucaramanga,Mismo día,63.0,27759.0,Cancelada,Moto
+1015,2026-01-08,Bucaramanga,Mismo día,47.0,23539.0,Entregada,Moto
+1016,2026-01-08,Bucaramanga,Mismo día,62.0,10063.0,Entregada,Furgón
+1017,2026-01-09,Villavicencio,Programada,51.0,29015.0,Pendiente,Moto
+1018,2026-01-09,Bogotá,Estándar,35.0,18552.0,Cancelada,Furgón
+1019,2026-01-10,Ibagué,Express,69.0,18649.0,Entregada,Furgón
+1020,2026-01-10,Cali,Programada,38.0,22535.0,Pendiente,Furgón
+1021,2026-01-11,Villavicencio,Express,76.0,24228.0,Pendiente,Furgón
+1022,2026-01-11,Cali,Mismo día,79.0,28824.0,Cancelada,Moto
+1023,2026-01-12,Medellín,Mismo día,47.0,,Entregada,Furgón
+1024,,Ibagué,Express,54.0,20252.0,Cancelada,Moto
+1025,2026-01-13,Bucaramanga,Mismo día,21.0,23638.0,Pendiente,Moto
+1026,, bogota ,Express,65.0,11377.0,Cancelada,Moto
+1027,2026-01-14,Cali,Programada,54.0,12693.0,En tránsito,Moto
+1028,2026-01-14,Bucaramanga,Express,72.0,,Cancelada,Moto
+1029,2026-01-15,Villavicencio,Estándar,22.0,6603.0,Pendiente,Moto
+1030,2026-01-15,Cali,Programada,63.0,13012.0,Entregada,Moto
+1031,2026-01-16,Cali,Programada,38.0,22950.0,Cancelada,Camioneta
+1032,2026-01-16,,Estándar,15.0,29404.0,Cancelada,Moto
+1033,2026-01-17,Bogotá,Mismo día,14.0,17987.0,En tránsito,Moto
+1034,2026-01-17,Villavicencio,Mismo día,45.0,14992.0,Pendiente,Furgón
+1035,2026-01-18,Ibagué,Express,26.0,16009.0,En tránsito,Moto
+1036,2026-01-18,Bogotá,Programada,9.0,22136.0,Pendiente,Moto
+1037,2026-01-19,Ibagué,Programada,34.0,18612.0,Cancelada,Moto
+1038,2026-01-19,Bucaramanga,Estándar,52.0,5580.0,Cancelada,Moto
+1039,2026-01-20,Medellín,Programada,26.0,18481.0,Entregada,Camioneta
+1040,2026-01-20,Villavicencio,Mismo día,76.0,15001.0,Cancelada,Furgón
+1041,2026-01-21,MEDELLIN,Mismo día,62.0,22520.0,En tránsito,Furgón
+1042,2026-01-21,Bucaramanga,Mismo día,41.0,26878.0,Pendiente,Camioneta
+1043,2026-01-22,Bucaramanga,Programada,74.0,29062.0,Cancelada,Moto
+1044,2026-01-22,Cali,Estándar,35.0,20256.0,En tránsito,Furgón
+1045,2026-01-23,Bogotá,Mismo día,12.0,14064.0,En tránsito,Moto
+1046,2026-01-23,Ibagué,Estándar,3.0,16099.0,En tránsito,Camioneta
+1047,2026-01-24,Cali,Programada,75.0,9411.0,Cancelada,Camioneta
+1048,2026-01-24,Ibagué,,76.0,28399.0,En tránsito,Furgón
+1049,2026-01-25,Bucaramanga,Estándar,59.0,26183.0,En tránsito,Moto
+1050,2026-01-25,Bucaramanga,Express,9.0,26350.0,En tránsito,Camioneta
+1051,2026-01-26,Bucaramanga,Mismo día,24.0,13203.0,Entregada,Camioneta
+1052,2026-01-26,Medellín,Express,4.0,13055.0,En tránsito,Camioneta
+1053,2026-01-27,Cali,Express,5.0,26416.0,Entregada,Furgón
+1054,2026-01-27,Cali,Mismo día,20.0,18614.0,Entregada,Furgón
+1055,2026-01-28,Cali,Programada,46.0,22617.0,Pendiente,Camioneta
+1056,2026-01-28,Bogotá,express,6.0,17246.0,Entregada,Camioneta
+1057,2026-01-29,Villavicencio,Programada,78.0,16069.0,Pendiente,Furgón
+1058,2026-01-29,Bogotá,Estándar,36.0,20805.0,Cancelada,Camioneta
+1059,2026-01-30,Bucaramanga,Express,21.0,25325.0,Pendiente,Moto
+1060,2026-01-30,Bucaramanga,Programada,41.0,13353.0,En tránsito,Camioneta
+1061,2026-01-31,Ibagué,Express,63.0,25229.0,Entregada,Moto
+1062,2026-01-31,Bucaramanga,Programada,25.0,11105.0,Cancelada,Moto
+1063,2026-02-01,Cali,Mismo día,4.0,15071.0,Cancelada,Camioneta
+1064,2026-02-01,Ibagué,Mismo día,5.0,27817.0,Pendiente,Furgón
+1065,,Cali,Estándar,68.0,28862.0,Entregada,Furgón
+1066,2026-02-02,Medellín,Mismo día,9.0,28097.0,Entregada,Moto
+1067,2026-02-03,Ibagué,Programada,51.0,12901.0,En tránsito,Camioneta
+1068,2026-02-03,Cali,Estándar,31.0,26083.0,Entregada,Moto
+1069,2026-02-04,Bogotá,Express,62.0,28403.0,Cancelada,Furgón
+1070,2026-02-04,Cali,Estándar,5.0,29456.0,Entregada,Moto
+1071,2026-02-05,MEDELLIN,Programada,71.0,5522.0,En tránsito,Furgón
+1072,2026-02-05,Medellín,Mismo día,56.0,23625.0,Cancelada,Furgón
+1073,2026-02-06,Cali,Express,36.0,29919.0,Cancelada,Furgón
+1074,2026-02-06,Bogotá,Programada,17.0,24117.0,Entregada,Moto
+1075,2026-02-07,Bucaramanga,Mismo día,78.0,,En tránsito,Furgón
+1076,2026-02-07,Cali,Mismo día,24.0,24065.0,Pendiente,Furgón
+1077,2026-02-08,Medellín,Estándar,39.0,7631.0,Pendiente,Camioneta
+1078,2026-02-08,Medellín,Express,32.0,17015.0,Cancelada,Furgón
+1079,2026-02-09,Villavicencio,Estándar,19.0,20656.0,Cancelada,Furgón
+1080,2026-02-09,Bucaramanga,Mismo día,33.0,16411.0,Cancelada,Moto
+1081,2026-02-10, bogota ,Mismo día,12.0,22496.0,Entregada,Furgón
+1082,2026-02-10,Cali,Programada,1.0,11005.0,Entregada,Furgón
+1083,2026-02-11,Bogotá,Express,23.0,20156.0,Pendiente,Moto
+1084,2026-02-11,Bucaramanga,Express,9.0,21121.0,Entregada,Moto
+1085,2026-02-12,Villavicencio,,33.0,20845.0,En tránsito,Furgón
+1086,2026-02-12,Bucaramanga,Programada,69.0,12233.0,Entregada,Moto
+1087,2026-02-13,Bogotá,Express,13.0,12634.0,Cancelada,Camioneta
+1088,2026-02-13,Medellín,Programada,1.0,11445.0,Entregada,Furgón
+1089,2026-02-14,Bucaramanga,Programada,9.0,16544.0,Entregada,Camioneta
+1090,2026-02-14,Bucaramanga,Express,,19649.0,Entregada,Furgón
+1091,2026-02-15,Cali,Express,22.0,14063.0,entregada,Moto
+1092,2026-02-15,Bucaramanga,Estándar,39.0,15249.0,Pendiente,Moto
+1093,,Ibagué,Programada,3.0,12160.0,En tránsito,Furgón
+1094,2026-02-16,Cali,Mismo día,27.0,10471.0,Cancelada,Camioneta
+1095,2026-02-17,Ibagué,Estándar,33.0,21436.0,En tránsito,Moto
+1096,2026-02-17,Medellín,Estándar,35.0,25402.0,Pendiente,Moto
+1097,2026-02-18,Medellín,Mismo día,44.0,12267.0,Pendiente,Camioneta
+1098,2026-02-18,Bucaramanga,Estándar,62.0,26515.0,Pendiente,Camioneta
+1099,2026-02-19,Villavicencio,Estándar,37.0,19275.0,Cancelada,Moto
+1100,2026-02-19,Bogotá,Estándar,67.0,9192.0,Entregada,Camioneta
+1101,2026-02-20,Bucaramanga,Express,42.0,14150.0,Pendiente,Camioneta
+1102,2026-02-20,Medellín,Estándar,21.0,5187.0,Cancelada,Camioneta
+1103,2026-02-21,Bucaramanga,Programada,19.0,5979.0,Cancelada,Moto
+1104,2026-02-21,Bogotá,Mismo día,26.0,13403.0,Pendiente,Camioneta
+1105,2026-02-22,Bucaramanga,Programada,,16362.0,Pendiente,Furgón
+1106,2026-02-22,Bucaramanga,Mismo día,20.0,24938.0,Cancelada,Moto
+1107,2026-02-23,Bucaramanga,Programada,73.0,8357.0,Pendiente,Moto
+1108,2026-02-23,Villavicencio,Express,38.0,25980.0,Cancelada,Furgón
+1109,2026-02-24,Cali,Estándar,69.0,10863.0,Entregada,Camioneta
+1110,2026-02-24,Bucaramanga,Mismo día,54.0,8458.0,En tránsito,Furgón
+1111,2026-02-25,Medellín,Express,27.0,22498.0,Entregada,Camioneta
+1112,2026-02-25,Bucaramanga,Mismo día,19.0,24359.0,Entregada,Furgón
+1113,2026-02-26,Villavicencio,Programada,59.0,20123.0,En tránsito,Camioneta
+1114,2026-02-26,Cali,Estándar,27.0,7892.0,Entregada,Moto
+1115,2026-02-27,Villavicencio,Mismo día,20.0,7883.0,En tránsito,Furgón
+1116,2026-02-27,Villavicencio,express,74.0,14751.0,En tránsito,Camioneta
+1117,2026-02-28,Bogotá,Express,39.0,16265.0,Pendiente,Moto
+1118,2026-02-28,Bogotá,Express,4.0,29966.0,Cancelada,Camioneta
+1119,2026-03-01,Medellín,Programada,40.0,12162.0,Cancelada,Camioneta
+1120,2026-03-01,Bogotá,Mismo día,37.0,9814.0,En tránsito,Moto
+1121,2026-03-02, bogota ,Express,69.0,28648.0,En tránsito,Furgón
+1122,2026-03-02,Bucaramanga,Programada,57.0,8849.0,Cancelada,Moto
+1123,2026-03-03,Villavicencio,Express,16.0,5660.0,Entregada,Moto
+1124,2026-03-03,Cali,Programada,12.0,15570.0,Pendiente,Camioneta
+1125,2026-03-04,Ibagué,Programada,48.0,15027.0,En tránsito,Furgón
+1126,2026-03-04,Villavicencio,Express,4.0,20492.0,Entregada,Furgón
+1127,2026-03-05,Bogotá,Programada,26.0,26944.0,Pendiente,Furgón
+1128,2026-03-05,Bucaramanga,Mismo día,11.0,28323.0,En tránsito,Moto
+1129,2026-03-06,Villavicencio,Mismo día,2.0,12241.0,Entregada,Furgón
+1130,2026-03-06,Villavicencio,Express,73.0,29521.0,Pendiente,Furgón
+1131,2026-03-07,Villavicencio,Express,8.0,20817.0,Entregada,Camioneta
+1132,2026-03-07,Villavicencio,Express,1.0,6741.0,Pendiente,Camioneta
+1133,2026-03-08,Bogotá,Estándar,74.0,28462.0,Entregada,Moto
+1134,2026-03-08,Villavicencio,Express,15.0,8450.0,En tránsito,Furgón
+1135,2026-03-09,Bucaramanga,Mismo día,65.0,,Cancelada,Furgón
+1136,2026-03-09,Medellín,Mismo día,3.0,24769.0,Entregada,Camioneta
+1137,2026-03-10,Villavicencio,Mismo día,13.0,11236.0,Cancelada,Camioneta
+1138,2026-03-10,Bogotá,Express,9.0,11766.0,Pendiente,Camioneta
+1139,2026-03-11,Cali,Express,56.0,16904.0,Cancelada,Moto
+1140,2026-03-11,Cali,Mismo día,49.0,27122.0,Entregada,Camioneta
+1141,2026-03-12,Ibagué,Estándar,38.0,10590.0,Pendiente,Furgón
+1142,2026-03-12,Medellín,Programada,20.0,21586.0,Cancelada,Furgón
+1143,2026-03-13,Medellín,Mismo día,8.0,16315.0,Cancelada,Furgón
+1144,2026-03-13,Cali,Express,45.0,7796.0,Entregada,Camioneta
+1145,2026-03-14,Ibagué,Express,19.0,22772.0,Cancelada,Furgón
+1146,2026-03-14,Ibagué,Express,47.0,25814.0,Entregada,Camioneta
+1147,2026-03-15,Bogotá,Express,55.0,19391.0,Pendiente,Camioneta
+1148,2026-03-15,Medellín,Express,68.0,9409.0,En tránsito,Camioneta
+1149,2026-03-16,Bucaramanga,Mismo día,40.0,8893.0,Pendiente,Furgón
+1150,2026-03-16,Bogotá,Programada,1.0,15587.0,Pendiente,Furgón
+1151,2026-03-17,MEDELLIN,Mismo día,23.0,17660.0,Entregada,Moto
+1152,2026-03-17,Medellín,Mismo día,68.0,18805.0,Pendiente,Moto
+1153,2026-03-18,Ibagué,Mismo día,43.0,11091.0,Cancelada,Camioneta
+1154,2026-03-18,Medellín,Express,49.0,17519.0,En tránsito,Camioneta
+1155,2026-03-19,Cali,Estándar,37.0,12377.0,En tránsito,Furgón
+1156,2026-03-19,Villavicencio,Mismo día,13.0,22154.0,Cancelada,Camioneta
+1157,2026-03-20,Bogotá,Express,,24912.0,Entregada,Camioneta
+1158,2026-03-20,Villavicencio,Express,62.0,21317.0,En tránsito,Furgón
+1159,2026-03-21,Villavicencio,Programada,79.0,5031.0,Pendiente,Camioneta
+1160,2026-03-21,Bucaramanga,Mismo día,68.0,29802.0,En tránsito,Camioneta
+1161,2026-03-22,Ibagué,Mismo día,23.0,5594.0,entregada,Camioneta
+1162,2026-03-22,Villavicencio,Mismo día,21.0,29986.0,En tránsito,Camioneta
+1163,2026-03-23,Cali,Express,20.0,5794.0,Cancelada,Furgón
+1164,2026-03-23,Cali,Mismo día,73.0,17912.0,Entregada,Furgón
+1165,2026-03-24,Cali,Mismo día,44.0,7649.0,Pendiente,Camioneta
+1166,2026-03-24,Bucaramanga,Programada,36.0,,Pendiente,Camioneta
+1167,2026-03-25,Medellín,Mismo día,77.0,22085.0,Entregada,Camioneta
+1168,2026-03-25,Medellín,Mismo día,48.0,23196.0,Entregada,Moto
+1169,2026-03-26,Cali,Estándar,72.0,7956.0,Pendiente,Camioneta
+1170,2026-03-26,Bogotá,Express,78.0,29417.0,Pendiente,Moto
+1171,2026-03-27,Bogotá,Estándar,7.0,13011.0,Pendiente,Moto
+1172,2026-03-27,Bogotá,Express,29.0,12958.0,Entregada,Moto
+1173,2026-03-28,Bucaramanga,Express,58.0,12424.0,Pendiente,Camioneta
+1174,2026-03-28,Bucaramanga,Express,65.0,16530.0,Cancelada,Moto
+1175,2026-03-29,Bucaramanga,Programada,12.0,9446.0,Entregada,Camioneta
+1176,2026-03-29,Cali,Programada,26.0,15619.0,En tránsito,Camioneta
+1177,2026-03-30,Bucaramanga,Programada,44.0,10249.0,En tránsito,Camioneta
+1178,2026-03-30,Bogotá,Programada,64.0,6285.0,Cancelada,Furgón
+1179,2026-03-31,Ibagué,Programada,9.0,14218.0,En tránsito,Camioneta
+1180,2026-03-31,Villavicencio,Programada,48.0,21807.0,En tránsito,Furgón
+1181,2026-04-01,Ibagué,Express,24.0,24078.0,Pendiente,Furgón
+1182,2026-04-01,Bogotá,Mismo día,18.0,13833.0,Entregada,Moto
+1183,2026-04-02,Cali,Estándar,41.0,13093.0,Cancelada,Moto
+1184,2026-04-02,Bucaramanga,Express,33.0,24687.0,Cancelada,Camioneta
+1185,2026-04-03,Cali,Mismo día,51.0,22030.0,Pendiente,Furgón
+1186,2026-04-03,Cali,Programada,26.0,25803.0,Pendiente,Moto
+1187,2026-04-04,Bogotá,Express,66.0,27653.0,Pendiente,Moto
+1188,2026-04-04,Cali,Express,7.0,25531.0,Cancelada,Furgón
+1189,2026-04-05,Medellín,Express,69.0,28413.0,Cancelada,Furgón
+1190,2026-04-05,Medellín,Estándar,3.0,,En tránsito,Moto
+1191,2026-04-06, bogota ,Express,59.0,,En tránsito,Camioneta
+1192,,Villavicencio,Programada,28.0,13038.0,Pendiente,Camioneta
+1193,2026-04-07,Villavicencio,Programada,31.0,10880.0,Entregada,Moto
+1194,2026-04-07,Cali,Mismo día,2.0,23721.0,Cancelada,Moto
+1195,2026-04-08,Ibagué,Programada,56.0,,Cancelada,Camioneta
+1196,2026-04-08,Bogotá,Programada,14.0,25035.0,Pendiente,Camioneta
+1197,2026-04-09,Cali,Programada,53.0,9184.0,En tránsito,Moto
+1198,2026-04-09,Bogotá,Express,58.0,17281.0,En tránsito,Camioneta
+1199,2026-04-10,Cali,Express,67.0,10549.0,En tránsito,Moto
+1200,2026-04-10,Ibagué,Programada,56.0,27326.0,Pendiente,Furgón
+1201,2026-04-11,Cali,Express,24.0,11685.0,Cancelada,Moto
+1202,2026-04-11,Ibagué,Express,59.0,8597.0,Pendiente,Moto
+1203,2026-04-12,Cali,Express,66.0,19247.0,Cancelada,Moto
+1204,2026-04-12,Bucaramanga,Mismo día,,26977.0,Cancelada,Furgón
+1205,2026-04-13,Cali,Estándar,10.0,27894.0,Pendiente,Furgón
+1206,2026-04-13,Medellín,express,71.0,7402.0,En tránsito,Camioneta
+1207,2026-04-14,Bucaramanga,Estándar,12.0,13147.0,Pendiente,Moto
+1208,2026-04-14,Ibagué,Express,47.0,8838.0,En tránsito,Furgón
+1209,2026-04-15,Medellín,Estándar,19.0,12696.0,Pendiente,Camioneta
+1210,2026-04-15,Bucaramanga,Express,10.0,18346.0,Cancelada,Furgón
+1211,2026-04-16,Medellín,Mismo día,62.0,12014.0,En tránsito,Camioneta
+1212,2026-04-16,Bucaramanga,Express,12.0,6688.0,Pendiente,Furgón
+1213,2026-04-17,Bucaramanga,Estándar,53.0,17751.0,Entregada,Furgón
+1214,2026-04-17,Cali,Mismo día,55.0,6320.0,Pendiente,Moto
+1215,2026-04-18,Bucaramanga,Programada,5.0,10667.0,En tránsito,Furgón
+1216,2026-04-18,Medellín,,14.0,5012.0,En tránsito,Moto
+1217,2026-04-19,Bogotá,Programada,63.0,7170.0,Pendiente,Camioneta
+1218,2026-04-19,Bogotá,Mismo día,41.0,15908.0,Entregada,Moto
+1219,2026-04-20,Cali,Estándar,10.0,26268.0,Pendiente,Furgón
+1220,2026-04-20,Ibagué,Programada,79.0,24366.0,Pendiente,Moto
+1221,2026-04-21,,Mismo día,21.0,7470.0,En tránsito,Camioneta
+1222,2026-04-21,Cali,Programada,1.0,5870.0,Entregada,Camioneta
+1223,2026-04-22,Bucaramanga,Estándar,74.0,13452.0,En tránsito,Furgón
+1224,2026-04-22,Medellín,Express,2.0,21307.0,Entregada,Furgón
+1225,2026-04-23,Bucaramanga,Express,44.0,23669.0,En tránsito,Moto
+1226,2026-04-23,Medellín,Mismo día,79.0,25579.0,Pendiente,Furgón
+1227,2026-04-24,Bucaramanga,Programada,46.0,13555.0,Entregada,Moto
+1228,2026-04-24,Villavicencio,Estándar,47.0,9200.0,Pendiente,Camioneta
+1229,2026-04-25,Villavicencio,Estándar,31.0,5658.0,Entregada,Camioneta
+1230,2026-04-25,Medellín,Programada,11.0,8671.0,Cancelada,Camioneta
+1231,2026-04-26,Cali,Programada,46.0,6629.0,Pendiente,Furgón
+1232,2026-04-26,Ibagué,Programada,71.0,,En tránsito,Furgón
+1233,2026-04-27,Bogotá,Estándar,8.0,11710.0,Pendiente,Camioneta
+1234,2026-04-27,Bucaramanga,Programada,70.0,25578.0,Entregada,Furgón
+1235,2026-04-28,Cali,Estándar,33.0,18829.0,Entregada,Moto
+1236,2026-04-28,Bucaramanga,Mismo día,,18474.0,Cancelada,Moto
+1237,2026-04-29,Villavicencio,Express,14.0,16370.0,Cancelada,Camioneta
+1238,2026-04-29,Cali,Express,50.0,25480.0,Entregada,Camioneta
+1239,2026-04-30,Medellín,Estándar,15.0,6086.0,En tránsito,Furgón
+1240,2026-04-30,Villavicencio,Programada,,7318.0,Entregada,Furgón
+1241,2026-05-01,Bogotá,Programada,58.0,15585.0,En tránsito,Moto
+1242,2026-05-01,Villavicencio,Estándar,4.0,14862.0,En tránsito,Moto
+1243,2026-05-02,Bogotá,Mismo día,36.0,18640.0,En tránsito,Furgón
+1244,2026-05-02,,Estándar,47.0,23445.0,Pendiente,Camioneta
+1245,2026-05-03,Villavicencio,Express,11.0,,Entregada,Moto
+1246,2026-05-03,Bogotá,Express,24.0,11436.0,Cancelada,Furgón
+1247,2026-05-04,Bucaramanga,Mismo día,28.0,13182.0,Pendiente,Camioneta
+1248,2026-05-04,Cali,Express,53.0,23808.0,Cancelada,Furgón
+1249,2026-05-05,Bucaramanga,Mismo día,78.0,10036.0,Entregada,Furgón
+1250,2026-05-05,Bogotá,Estándar,67.0,17604.0,Pendiente,Furgón
+1251,2026-05-06,Medellín,Express,15.0,18470.0,Cancelada,Camioneta
+1252,2026-05-06,Cali,Estándar,2.0,23757.0,Entregada,Furgón
+1253,2026-05-07,Medellín,Programada,5.0,22859.0,Cancelada,Furgón
+1254,2026-05-07,Medellín,Estándar,48.0,16617.0,En tránsito,Moto
+1255,2026-05-08,Villavicencio,Mismo día,13.0,12729.0,Cancelada,Moto
+1256,2026-05-08,Bogotá,Programada,19.0,14197.0,En tránsito,Moto
+1257,2026-05-09,Bucaramanga,Estándar,67.0,15290.0,Cancelada,Camioneta
+1258,2026-05-09,Bogotá,Programada,70.0,10479.0,Entregada,Camioneta
+1259,2026-05-10,Medellín,Mismo día,67.0,20635.0,En tránsito,Moto
+1260,2026-05-10,Villavicencio,Estándar,21.0,10209.0,En tránsito,Camioneta
+1261,2026-05-11,Bucaramanga,Express,49.0,21217.0,Entregada,Moto
+1262,2026-05-11,Medellín,Estándar,49.0,23788.0,En tránsito,Camioneta
+1263,2026-05-12,Medellín,Mismo día,15.0,29046.0,En tránsito,Camioneta
+1264,2026-05-12,Ibagué,Express,44.0,7972.0,Entregada,Camioneta
+1265,2026-05-13,Ibagué,Mismo día,42.0,23994.0,Pendiente,Camioneta
+1266,2026-05-13,Villavicencio,Programada,32.0,,Pendiente,Camioneta
+1267,2026-05-14,Cali,Programada,60.0,13431.0,Cancelada,Furgón
+1268,2026-05-14,Cali,Estándar,54.0,9407.0,Pendiente,Furgón
+1269,2026-05-15,Villavicencio,Mismo día,43.0,9057.0,Entregada,Furgón
+1270,2026-05-15,Villavicencio,Express,58.0,9383.0,Entregada,Camioneta
+1271,2026-05-16,Medellín,Estándar,61.0,6098.0,En tránsito,Camioneta
+1272,2026-05-16,Bogotá,Estándar,45.0,25578.0,En tránsito,Moto
+1273,2026-05-17,Bogotá,Estándar,22.0,6528.0,Entregada,Camioneta
+1274,2026-05-17,Ibagué,Estándar,60.0,14963.0,Cancelada,Moto
+1275,2026-05-18,Cali,Express,57.0,22479.0,Pendiente,Camioneta
+1276,2026-05-18,Cali,Express,78.0,29760.0,Pendiente,Moto
+1277,2026-05-19,Cali,Express,12.0,26343.0,Entregada,Camioneta
+1278,2026-05-19,Bucaramanga,Programada,34.0,8430.0,Cancelada,Furgón
+1279,2026-05-20,Bogotá,Estándar,74.0,29694.0,Entregada,Furgón
+1280,2026-05-20,Bogotá,Programada,41.0,21339.0,En tránsito,Camioneta
+1281,2026-05-21,Medellín,Programada,75.0,9489.0,En tránsito,Moto
+1282,2026-05-21,Cali,Programada,1.0,16218.0,Cancelada,Moto
+1283,2026-05-22,Bucaramanga,Programada,3.0,27947.0,En tránsito,Moto
+1284,2026-05-22,Cali,Programada,63.0,14823.0,Entregada,Furgón
+1285,2026-05-23,Cali,Programada,29.0,9591.0,En tránsito,Furgón
+1286,2026-05-23,Ibagué,Programada,42.0,26877.0,En tránsito,Camioneta
+1287,2026-05-24,Bogotá,Programada,34.0,28825.0,Entregada,Moto
+1288,2026-05-24,Villavicencio,Estándar,33.0,29390.0,Entregada,Moto
+1289,2026-05-25,Villavicencio,Express,75.0,28893.0,Entregada,Furgón
+1290,2026-05-25,Cali,Mismo día,,26822.0,En tránsito,Moto
+1291,2026-05-26,Bucaramanga,Estándar,62.0,16362.0,En tránsito,Moto
+1292,2026-05-26,Medellín,Programada,71.0,9807.0,En tránsito,Moto
+1293,2026-05-27,Ibagué,Express,52.0,20429.0,Pendiente,Moto
+1294,2026-05-27,Medellín,Estándar,32.0,10520.0,Entregada,Camioneta
+1295,2026-05-28,Villavicencio,Programada,13.0,16829.0,Cancelada,Furgón
+1296,2026-05-28,Villavicencio,Programada,54.0,21402.0,Cancelada,Moto
+1297,2026-05-29,Ibagué,Programada,38.0,28665.0,Entregada,Furgón
+1298,2026-05-29,Cali,Estándar,12.0,12227.0,En tránsito,Moto
+1299,2026-05-30,Medellín,Mismo día,29.0,11298.0,Entregada,Moto
+1300,2026-05-30,Bogotá,Programada,76.0,23368.0,En tránsito,Moto
+1301,2026-05-31,Cali,Mismo día,35 km,5161.0,En tránsito,Furgón
+1302,2026-05-31,Bucaramanga,,sin dato,19161.0,Entregada,Camioneta
+1303,2026-06-01,Bogotá,Programada,45km,23648.0,Entregada,Furgón
+1304,2026-06-01,Ibagué,Mismo día,16.0,18773.0,En tránsito,Moto
+1305,2026-06-02,Villavicencio,Express,73.0,14599.0,Pendiente,Moto
+1306,2026-06-02,Bogotá,Mismo día,68.0,25714.0,En tránsito,Furgón
+1307,2026-06-03,Medellín,Mismo día,78.0,14276.0,Cancelada,Moto
+1308,2026-06-03,Villavicencio,Programada,73.0,22764.0,En tránsito,Moto
+1309,2026-06-04,Medellín,Programada,20.0,16604.0,Cancelada,Camioneta
+1310,2026-06-04,Bogotá,Programada,17.0,5664.0,Entregada,Camioneta
+1311,2026-06-05,Villavicencio,Estándar,28.0,18263.0,Pendiente,Moto
+1312,2026-06-05,Bucaramanga,Mismo día,38.0,6236.0,Cancelada,Camioneta
+1313,2026-06-06,Bogotá,Express,70.0,28274.0,Entregada,Furgón
+1314,2026-06-06,Medellín,Estándar,58.0,20039.0,Cancelada,Camioneta
+1315,2026-06-07,Medellín,Programada,51.0,14301.0,En tránsito,Camioneta
+1316,2026-06-07,Villavicencio,Mismo día,70.0,17155.0,En tránsito,Moto
+1317,2026-06-08,Bucaramanga,Estándar,52.0,20480.0,Pendiente,Camioneta
+1318,2026-06-08,Bucaramanga,Estándar,30.0,11504.0,Pendiente,Furgón
+1319,2026-06-09,Ibagué,Express,33.0,12210.0,Entregada,Camioneta
+1320,2026-06-09,Bucaramanga,Express,41.0,15466.0,Cancelada,Furgón
+1321,2026-06-10,Medellín,Express,8.0,$12000,Pendiente,Moto
+1322,2026-06-10,Bogotá,Express,59.0,pendiente,Cancelada,Moto
+1323,2026-06-11,Villavicencio,Mismo día,52.0,7595.0,En tránsito,Camioneta
+1324,2026-06-11,Ibagué,Mismo día,58.0,25666.0,Pendiente,Moto
+1325,2026-06-12,Ibagué,Mismo día,43.0,13713.0,En tránsito,Camioneta
+1326,2026-06-12,Medellín,Express,62.0,19031.0,Cancelada,Furgón
+1327,2026-06-13,Medellín,Express,76.0,8944.0,Cancelada,Camioneta
+1328,2026-06-13,Bogotá,Estándar,46.0,14634.0,Cancelada,Camioneta
+1329,2026-06-14,Bogotá,Programada,36.0,23865.0,Pendiente,Furgón
+1330,2026-06-14,Villavicencio,Estándar,9.0,11767.0,Cancelada,Moto
+1331,2026/02/15,Villavicencio,Estándar,62.0,8307.0,En tránsito,Furgón
+1332,fecha_desconocida,Cali,Express,72.0,18048.0,En tránsito,Moto
+1333,2026-06-16,Medellín,Programada,56.0,9062.0,Cancelada,Furgón
+1334,2026-06-16,Bucaramanga,Estándar,69.0,12869.0,Entregada,Camioneta
+1335,2026-06-17,Cali,Express,69.0,16261.0,Pendiente,Moto
+1336,2026-06-17,Bucaramanga,Programada,64.0,19102.0,Entregada,Furgón
+1337,2026-06-18,Ibagué,Mismo día,40.0,20985.0,Pendiente,Moto
+1338,2026-06-18,Medellín,Express,8.0,21916.0,En tránsito,Camioneta
+1339,2026-06-19,Medellín,Estándar,1.0,26108.0,En tránsito,Furgón
+1340,2026-06-19,Ibagué,Mismo día,17.0,6652.0,En tránsito,Furgón
+1341,2026-06-20,Villavicencio,Programada,35.0,14058.0,En tránsito,Furgón
+1342,2026-06-20,Medellín,Mismo día,,5026.0,En tránsito,Camioneta
+1343,2026-06-21,Villavicencio,Estándar,37.0,5236.0,En tránsito,Camioneta
+1344,2026-06-21,Villavicencio,Estándar,2.0,10307.0,Pendiente,Moto
+1345,2026-06-22,Ibagué,Programada,17.0,19954.0,Cancelada,Furgón
+1346,2026-06-22,Medellín,Express,78.0,27363.0,Pendiente,Camioneta
+1347,2026-06-23,Ibagué,Express,79.0,24339.0,Pendiente,Furgón
+1348,2026-06-23,Ibagué,Programada,30.0,21157.0,Cancelada,Camioneta
+1349,2026-06-24,Medellín,Programada,64.0,24454.0,Cancelada,Furgón
+1350,2026-06-24,Bogotá,Express,57.0,9299.0,Entregada,Moto
+1351,2026-06-25,,Programada,74.0,25996.0,Pendiente,Furgón
+1352,2026-06-25,Bogotá,Estándar,71.0,27257.0,Entregada,Moto
+1353,2026-06-26,Medellín,Programada,50.0,7376.0,Entregada,Moto
+1354,2026-06-26,Cali,Mismo día,32.0,16749.0,Cancelada,Camioneta
+1355,2026-06-27,Ibagué,Express,50.0,25751.0,Entregada,Camioneta
+1356,2026-06-27,Ibagué,Mismo día,26.0,16902.0,Cancelada,Furgón
+1357,2026-06-28,Bogotá,Estándar,28.0,26012.0,Cancelada,Camioneta
+1358,2026-06-28,Ibagué,Mismo día,49.0,28389.0,Cancelada,Moto
+1359,2026-06-29,Bogotá,Estándar,46.0,16867.0,Pendiente,Moto
+1360,2026-06-29,Bucaramanga,Estándar,46.0,6487.0,Cancelada,Camioneta
+1361,2026-06-30,Ibagué,Mismo día,31.0,13501.0,Entregada,Camioneta
+1362,2026-06-30,Ibagué,Programada,33.0,10379.0,Cancelada,Camioneta
+1363,2026-07-01,Medellín,Express,1.0,16853.0,Entregada,Moto
+1364,2026-07-01,Ibagué,Programada,48.0,19644.0,En tránsito,Camioneta
+1365,2026-07-02,Bogotá,Mismo día,46.0,16597.0,Entregada,Camioneta
+1366,2026-07-02,Villavicencio,Estándar,74.0,9887.0,En tránsito,Furgón
+1367,2026-07-03,Cali,Mismo día,40.0,12529.0,Pendiente,Camioneta
+1368,2026-07-03,Medellín,Programada,37.0,21988.0,En tránsito,Furgón
+1369,2026-07-04,Bogotá,Estándar,6.0,5674.0,Cancelada,Moto
+1370,2026-07-04,Bucaramanga,Express,16.0,10352.0,Pendiente,Furgón
+1371,2026-07-05,Cali,Programada,27.0,27309.0,Pendiente,Moto
+1372,2026-07-05,,Express,30.0,7479.0,Cancelada,Moto
+1373,2026-07-06,Cali,Mismo día,29.0,15369.0,En tránsito,Furgón
+1374,2026-07-06,Cali,Programada,32.0,10174.0,En tránsito,Camioneta
+1375,2026-07-07,Ibagué,Estándar,61.0,7616.0,Cancelada,Camioneta
+1376,2026-07-07,Bogotá,Express,11.0,15568.0,Pendiente,Camioneta
+1377,2026-07-08,Bucaramanga,Programada,27.0,18036.0,Pendiente,Furgón
+1378,2026-07-08,Bucaramanga,Express,13.0,9403.0,En tránsito,Moto
+1379,2026-07-09,Cali,Estándar,25.0,6944.0,Entregada,Moto
+1380,2026-07-09,Medellín,Mismo día,55.0,8367.0,Entregada,Moto
+1381,2026-07-10,Bogotá,Mismo día,4.0,21289.0,Entregada,Furgón
+1382,2026-07-10,Ibagué,Mismo día,27.0,26507.0,Entregada,Moto
+1383,2026-07-11,Ibagué,Mismo día,2.0,9507.0,Pendiente,Camioneta
+1384,2026-07-11,Medellín,Programada,76.0,13010.0,Entregada,Camioneta
+1385,2026-07-12,Bogotá,Express,58.0,13595.0,Pendiente,Moto
+1386,2026-07-12,Bogotá,Mismo día,20.0,14019.0,Cancelada,Camioneta
+1387,2026-07-13,Bogotá,Mismo día,16.0,11107.0,Cancelada,Moto
+1388,2026-07-13,Bucaramanga,Mismo día,8.0,6381.0,En tránsito,Moto
+1389,2026-07-14,Ibagué,Programada,38.0,18129.0,Entregada,Moto
+1390,2026-07-14,Bogotá,Express,60.0,13934.0,Cancelada,Furgón
+1391,2026-07-15,Bucaramanga,Programada,47.0,13556.0,Entregada,Camioneta
+1392,2026-07-15,Medellín,Estándar,70.0,11620.0,Pendiente,Furgón
+1393,2026-07-16,Cali,Mismo día,28.0,28234.0,Pendiente,Camioneta
+1394,2026-07-16,Villavicencio,Estándar,22.0,20262.0,Entregada,Moto
+1395,2026-07-17,Bucaramanga,Estándar,38.0,15467.0,Pendiente,Camioneta
+1396,2026-07-17,Ibagué,Express,16.0,10134.0,Entregada,Furgón
+1397,2026-07-18,Bogotá,Mismo día,78.0,25028.0,Entregada,Camioneta
+1398,2026-07-18,Medellín,Mismo día,15.0,27210.0,Cancelada,Moto
+1399,2026-07-19,Medellín,Express,38.0,5808.0,Cancelada,Moto
+1400,2026-07-19,Medellín,Estándar,42.0,28242.0,En tránsito,Furgón
+1401,2026-07-20,Ibagué,Estándar,5.0,22486.0,Cancelada,Camioneta
+1402,2026-07-20,Bucaramanga,Estándar,38.0,7495.0,Cancelada,Furgón
+1403,2026-07-21,Medellín,Mismo día,36.0,23829.0,Cancelada,Camioneta
+1404,2026-07-21,Ibagué,Express,21.0,7685.0,Entregada,Moto
+1405,2026-07-22,Cali,Estándar,11.0,6271.0,En tránsito,Furgón
+1406,2026-07-22,Villavicencio,Express,4.0,7883.0,Pendiente,Furgón
+1407,2026-07-23,Cali,Express,1.0,16496.0,Cancelada,Furgón
+1408,2026-07-23,Bogotá,Mismo día,39.0,20489.0,Cancelada,Furgón
+1409,2026-07-24,Ibagué,Mismo día,8.0,15183.0,En tránsito,Moto
+1410,2026-07-24,Bogotá,Express,76.0,8049.0,Entregada,Furgón
+1411,2026-07-25,Medellín,Programada,20.0,9979.0,Cancelada,Moto
+1412,2026-07-25,Medellín,Express,52.0,26310.0,En tránsito,Furgón
+1413,2026-07-26,Medellín,Express,54.0,29066.0,En tránsito,Moto
+1414,2026-07-26,Bogotá,Estándar,40.0,23857.0,Cancelada,Camioneta
+1415,2026-07-27,,Express,70.0,7585.0,Pendiente,Furgón
+1416,2026-07-27,Bucaramanga,Estándar,9.0,25496.0,En tránsito,Moto
+1417,2026-07-28,Ibagué,Mismo día,19.0,22300.0,Entregada,Moto
+1418,2026-07-28,Bogotá,Programada,20.0,18152.0,En tránsito,Furgón
+1419,2026-07-29,Medellín,Programada,11.0,8581.0,Cancelada,Moto
+1420,2026-07-29,Villavicencio,Estándar,,29917.0,En tránsito,Camioneta
+1421,2026-07-30,Ibagué,Express,25.0,16065.0,Pendiente,Furgón
+1422,,Bucaramanga,Express,61.0,6104.0,En tránsito,Camioneta
+1423,2026-07-31,Bucaramanga,Estándar,24.0,10249.0,Cancelada,Camioneta
+1424,2026-07-31,Villavicencio,Express,70.0,15032.0,Cancelada,Camioneta
+1425,2026-08-01,Cali,Mismo día,62.0,6558.0,Pendiente,Camioneta
+1426,2026-08-01,Medellín,Mismo día,72.0,13098.0,Cancelada,Camioneta
+1427,2026-08-02,Ibagué,Mismo día,9.0,16710.0,Pendiente,Camioneta
+1428,2026-08-02,Bucaramanga,Programada,78.0,28717.0,En tránsito,Moto
+1429,2026-08-03,Bogotá,Programada,49.0,7159.0,Pendiente,Camioneta
+1430,2026-08-03,Bucaramanga,Programada,78.0,19422.0,Cancelada,Furgón
+1431,2026-08-04,Bogotá,Estándar,29.0,27894.0,Cancelada,Furgón
+1432,2026-08-04,Bucaramanga,Programada,76.0,25155.0,Entregada,Moto
+1433,2026-08-05,Bucaramanga,Mismo día,47.0,28124.0,Pendiente,Furgón
+1434,2026-08-05,Bogotá,Mismo día,6.0,9258.0,Entregada,Furgón
+1435,2026-08-06,Cali,Programada,33.0,25034.0,Pendiente,Moto
+1436,2026-08-06,Bogotá,Express,11.0,29466.0,Pendiente,Furgón
+1437,2026-08-07,Villavicencio,Programada,75.0,13151.0,En tránsito,Camioneta
+1438,2026-08-07,Ibagué,Estándar,25.0,17466.0,Cancelada,Camioneta
+1439,2026-08-08,Bogotá,Programada,18.0,18271.0,Cancelada,Furgón
+1440,2026-08-08,Cali,Programada,44.0,17342.0,Entregada,Camioneta
+1441,2026-08-09,Ibagué,Mismo día,34.0,12244.0,Entregada,Camioneta
+1442,2026-08-09,Medellín,Estándar,8.0,29273.0,Entregada,Moto
+1443,2026-08-10,Bogotá,Mismo día,65.0,28913.0,Cancelada,Furgón
+1444,2026-08-10,Cali,Mismo día,67.0,14518.0,Pendiente,Furgón
+1445,2026-08-11,Villavicencio,Estándar,59.0,25133.0,Pendiente,Moto
+1446,2026-08-11,Villavicencio,Estándar,49.0,14938.0,Cancelada,Furgón
+1447,2026-08-12,Medellín,Programada,32.0,24871.0,Cancelada,Moto
+1448,2026-08-12,Ibagué,Mismo día,43.0,19619.0,Entregada,Camioneta
+1449,2026-08-13,Villavicencio,Programada,42.0,16754.0,Entregada,Furgón
+1450,2026-08-13,Medellín,Mismo día,14.0,8201.0,En tránsito,Moto
+1451,2026-08-14,Ibagué,Estándar,7.0,21365.0,En tránsito,Camioneta
+1452,2026-08-14,Ibagué,Programada,21.0,13027.0,Pendiente,Moto
+1453,2026-08-15,Cali,Estándar,36.0,10421.0,Entregada,Furgón
+1454,2026-08-15,Bogotá,Mismo día,13.0,9830.0,En tránsito,Camioneta
+1455,,Villavicencio,Estándar,9.0,29547.0,Entregada,Camioneta
+1456,2026-08-16,Villavicencio,Programada,68.0,7582.0,Entregada,Furgón
+1457,2026-08-17,Bogotá,Express,30.0,24963.0,Entregada,Camioneta
+1458,2026-08-17,Villavicencio,Mismo día,47.0,26654.0,Entregada,Furgón
+1459,2026-08-18,Ibagué,Estándar,42.0,5776.0,Pendiente,Moto
+1460,2026-08-18,Bogotá,Estándar,59.0,19733.0,En tránsito,Moto
+1461,2026-08-19,Bucaramanga,Programada,59.0,19435.0,En tránsito,Furgón
+1462,2026-08-19,Bogotá,Estándar,24.0,13967.0,En tránsito,Furgón
+1463,2026-08-20,Bucaramanga,Mismo día,67.0,21668.0,Pendiente,Camioneta
+1464,2026-08-20,Cali,Programada,,15217.0,Cancelada,Camioneta
+1465,,Bogotá,Programada,66.0,15992.0,Pendiente,Moto
+1466,2026-08-21,Ibagué,Express,32.0,15788.0,Pendiente,Furgón
+1467,2026-08-22,Bogotá,Express,9.0,25017.0,Pendiente,Furgón
+1468,2026-08-22,Villavicencio,Estándar,61.0,20829.0,Pendiente,Moto
+1469,2026-08-23,Medellín,Mismo día,3.0,14476.0,Entregada,Camioneta
+1470,2026-08-23,Ibagué,Mismo día,62.0,28170.0,Cancelada,Camioneta
+1471,2026-08-24,Bucaramanga,Programada,4.0,25052.0,Entregada,Camioneta
+1472,2026-08-24,Bucaramanga,Programada,17.0,28320.0,En tránsito,Furgón
+1473,2026-08-25,Cali,Estándar,48.0,23263.0,Pendiente,Moto
+1474,2026-08-25,Cali,Express,75.0,14787.0,En tránsito,Moto
+1475,2026-08-26,Villavicencio,Express,33.0,24324.0,Entregada,Moto
+1476,2026-08-26,Bucaramanga,Estándar,10.0,13231.0,Cancelada,Furgón
+1477,2026-08-27,Ibagué,Estándar,19.0,11773.0,Entregada,Camioneta
+1478,2026-08-27,Bogotá,Express,,16276.0,Entregada,Furgón
+1479,2026-08-28,Villavicencio,Estándar,58.0,29233.0,Cancelada,Camioneta
+1480,2026-08-28,Bogotá,Express,8.0,19198.0,Pendiente,Moto
+1481,2026-08-29,Medellín,Programada,31.0,14592.0,Entregada,Camioneta
+1482,2026-08-29,Bucaramanga,Mismo día,21.0,16545.0,Cancelada,Moto
+1483,2026-08-30,Medellín,Programada,15.0,12280.0,Cancelada,Furgón
+1484,2026-08-30,Bucaramanga,Estándar,67.0,21469.0,Entregada,Furgón
+1485,2026-08-31,Cali,Estándar,49.0,13760.0,En tránsito,Furgón
+1486,2026-08-31,Medellín,Estándar,15.0,18860.0,En tránsito,Camioneta
+1487,2026-09-01,Cali,Express,52.0,14245.0,Entregada,Moto
+1488,2026-09-01,Villavicencio,Programada,33.0,13018.0,Entregada,Moto
+1489,2026-09-02,Bucaramanga,Programada,5.0,29256.0,Entregada,Camioneta
+1490,2026-09-02,Villavicencio,Express,36.0,13643.0,Entregada,Camioneta
+1491,2026-09-03,Ibagué,Estándar,15.0,6763.0,En tránsito,Furgón
+1492,2026-09-03,Ibagué,Estándar,20.0,14465.0,En tránsito,Furgón
+1493,2026-09-04,Bucaramanga,Express,,18304.0,Entregada,Moto
+1494,2026-09-04,Villavicencio,Programada,57.0,7366.0,En tránsito,Moto
+1495,2026-09-05,Medellín,Programada,11.0,12642.0,Entregada,Camioneta
+1496,2026-09-05,Cali,Programada,68.0,9151.0,Cancelada,Camioneta
+1497,2026-09-06,Bogotá,Programada,,17516.0,Entregada,Moto
+1498,2026-09-06,Cali,,70.0,23078.0,Cancelada,Furgón
+1499,2026-09-07,Ibagué,Mismo día,60.0,29212.0,Pendiente,Furgón
+1500,2026-09-07,Cali,Programada,27.0,14727.0,Cancelada,Camioneta
+1501,2026-09-08,Bogotá,Mismo día,43.0,26582.0,Pendiente,Moto
+1502,2026-09-08,Villavicencio,Estándar,42.0,10363.0,En tránsito,Furgón
+1503,2026-09-09,Ibagué,Mismo día,57.0,24513.0,Pendiente,Moto
+1504,2026-09-09,Ibagué,Mismo día,20.0,19067.0,En tránsito,Camioneta
+1505,2026-09-10,Medellín,Programada,27.0,23955.0,Entregada,Furgón
+1506,2026-09-10,Cali,Mismo día,20.0,23889.0,En tránsito,Furgón
+1507,2026-09-11,Villavicencio,Programada,24.0,18311.0,En tránsito,Moto
+1508,2026-09-11,Medellín,Programada,13.0,11435.0,Entregada,Camioneta
+1509,2026-09-12,Medellín,Estándar,3.0,18155.0,Entregada,Moto
+1510,2026-09-12,Medellín,Mismo día,75.0,25670.0,Cancelada,Moto
+1511,2026-09-13,Ibagué,Programada,6.0,29267.0,Pendiente,Camioneta
+1512,2026-09-13,Bucaramanga,Mismo día,,28188.0,En tránsito,Furgón
+1513,2026-09-14,Ibagué,Estándar,1.0,9536.0,Cancelada,Furgón
+1514,2026-09-14,Bucaramanga,Mismo día,62.0,19935.0,Entregada,Camioneta
+1515,2026-09-15,Ibagué,Express,26.0,7614.0,En tránsito,Moto
+1516,,Bogotá,Express,41.0,21724.0,Cancelada,Moto
+1517,2026-09-16,Ibagué,Programada,23.0,29809.0,Pendiente,Moto
+1518,2026-09-16,Bogotá,Programada,39.0,6314.0,En tránsito,Moto
+1519,2026-09-17,Cali,Mismo día,36.0,21414.0,En tránsito,Moto
+1520,2026-09-17,Villavicencio,Estándar,42.0,28638.0,Entregada,Furgón
+1521,2026-09-18,Cali,Programada,32.0,26180.0,Entregada,Moto
+1522,2026-09-18,Bogotá,Programada,43.0,14812.0,Entregada,Moto
+1523,2026-09-19,Medellín,Mismo día,66.0,7598.0,Cancelada,Camioneta
+1524,2026-09-19,Bucaramanga,Programada,35.0,,Pendiente,Moto
+1525,2026-09-20,Medellín,Estándar,29.0,28033.0,En tránsito,Camioneta
+1526,2026-09-20,Medellín,Mismo día,11.0,19475.0,Cancelada,Moto
+1527,2026-09-21,Ibagué,Express,29.0,29473.0,Entregada,Moto
+1528,2026-09-21,Bogotá,Mismo día,10.0,5115.0,Entregada,Camioneta
+1529,2026-09-22,Ibagué,Express,15.0,20415.0,En tránsito,Furgón
+1530,2026-09-22,Ibagué,Estándar,76.0,5963.0,Cancelada,Camioneta
+1531,2026-09-23,Villavicencio,Mismo día,8.0,28393.0,Pendiente,Camioneta
+1532,2026-09-23,Bogotá,Programada,39.0,22011.0,Cancelada,Camioneta
+1533,2026-09-24,Bogotá,,66.0,27836.0,Entregada,Moto
+1534,2026-09-24,Medellín,,76.0,19067.0,Cancelada,Moto
+1535,2026-09-25,Villavicencio,Programada,12.0,7081.0,Entregada,Camioneta
+1536,2026-09-25,Bogotá,Estándar,13.0,5663.0,Entregada,Moto
+1537,,Cali,Express,30.0,13389.0,Pendiente,Furgón
+1538,2026-09-26,Bogotá,Express,44.0,23587.0,Entregada,Camioneta
+1539,2026-09-27,Villavicencio,Estándar,76.0,8775.0,Cancelada,Moto
+1540,2026-09-27,Bogotá,Express,17.0,26304.0,Cancelada,Camioneta
+1541,2026-09-28,Bucaramanga,Programada,13.0,10987.0,Pendiente,Moto
+1542,2026-09-28,Bogotá,Mismo día,21.0,17410.0,En tránsito,Camioneta
+1543,2026-09-29,Medellín,Mismo día,70.0,10077.0,Entregada,Furgón
+1544,2026-09-29,Medellín,Estándar,3.0,16644.0,Pendiente,Moto
+1545,2026-09-30,Bucaramanga,Mismo día,31.0,16304.0,Pendiente,Camioneta
+1546,2026-09-30,Bogotá,Mismo día,10.0,5136.0,Cancelada,Moto
+1547,2026-10-01,Cali,Mismo día,13.0,19195.0,Pendiente,Camioneta
+1548,2026-10-01,Villavicencio,Estándar,73.0,24667.0,Entregada,Moto
+1549,2026-10-02,Villavicencio,Estándar,1.0,28407.0,Entregada,Camioneta
+1550,2026-10-02,Bucaramanga,Mismo día,26.0,13268.0,Cancelada,Camioneta
+1551,2026-10-03,Bucaramanga,Express,73.0,27015.0,Entregada,Moto
+1552,2026-10-03,Cali,Estándar,49.0,26969.0,Cancelada,Camioneta
+1553,2026-10-04,Bucaramanga,Express,6.0,29710.0,Entregada,Furgón
+1554,2026-10-04,Medellín,Mismo día,37.0,14326.0,Pendiente,Furgón
+1555,2026-10-05,Ibagué,Programada,77.0,26273.0,Cancelada,Moto
+1556,2026-10-05,Villavicencio,Express,,19127.0,En tránsito,Camioneta
+1557,2026-10-06,,Express,42.0,6456.0,Entregada,Furgón
+1558,,Ibagué,Programada,43.0,11758.0,Cancelada,Camioneta
+1559,2026-10-07,Bucaramanga,Programada,53.0,21801.0,Entregada,Moto
+1560,2026-10-07,Ibagué,Mismo día,15.0,9014.0,Pendiente,Camioneta
+1561,2026-10-08,Villavicencio,Estándar,67.0,15868.0,Cancelada,Moto
+1562,,Bogotá,Mismo día,79.0,24373.0,Pendiente,Moto
+1563,2026-10-09,Cali,,12.0,8744.0,Entregada,Camioneta
+1564,2026-10-09,Medellín,Mismo día,65.0,17415.0,Cancelada,Camioneta
+1565,2026-10-10,Ibagué,Express,65.0,10371.0,Entregada,Furgón
+1566,2026-10-10,Medellín,Express,59.0,18412.0,Pendiente,Camioneta
+1567,2026-10-11,Medellín,Express,30.0,11018.0,Pendiente,Furgón
+1568,2026-10-11,Medellín,Estándar,38.0,29136.0,En tránsito,Camioneta
+1569,2026-10-12,Villavicencio,Mismo día,67.0,6917.0,En tránsito,Furgón
+1570,2026-10-12,Villavicencio,Express,13.0,29090.0,Entregada,Moto
+1571,2026-10-13,Ibagué,Estándar,66.0,24797.0,Cancelada,Moto
+1572,2026-10-13,Cali,Express,73.0,,Entregada,Furgón
+1573,2026-10-14,Medellín,Mismo día,54.0,26288.0,En tránsito,Furgón
+1574,2026-10-14,Bogotá,Programada,27.0,9690.0,Pendiente,Furgón
+1575,2026-10-15,Bogotá,Mismo día,45.0,28278.0,Pendiente,Moto
+1576,2026-10-15,Cali,Programada,4.0,19857.0,Pendiente,Moto
+1577,2026-10-16,Ibagué,Programada,74.0,29054.0,Pendiente,Furgón
+1578,2026-10-16,Villavicencio,Mismo día,28.0,26954.0,Pendiente,Camioneta
+1579,2026-10-17,Ibagué,Express,5.0,19490.0,Cancelada,Moto
+1580,2026-10-17,Bogotá,Mismo día,63.0,14361.0,En tránsito,Furgón
+1581,2026-10-18,Bogotá,Programada,52.0,7932.0,Cancelada,Furgón
+1582,2026-10-18,Ibagué,Programada,50.0,7527.0,Cancelada,Moto
+1583,2026-10-19,Bogotá,Estándar,5.0,14743.0,Cancelada,Furgón
+1584,2026-10-19,Bogotá,Mismo día,60.0,25274.0,Cancelada,Furgón
+1585,2026-10-20,Cali,Estándar,51.0,17634.0,Cancelada,Camioneta
+1586,2026-10-20,Ibagué,Express,63.0,17044.0,Entregada,Camioneta
+1587,2026-10-21,Bucaramanga,Mismo día,66.0,11111.0,Cancelada,Moto
+1588,2026-10-21,Bogotá,Express,17.0,19110.0,Pendiente,Furgón
+1589,2026-10-22,Ibagué,Express,17.0,20952.0,En tránsito,Furgón
+1590,2026-10-22,Ibagué,Programada,73.0,29554.0,Pendiente,Furgón
+1591,2026-10-23,Bucaramanga,Express,42.0,23236.0,En tránsito,Furgón
+1592,2026-10-23,Ibagué,Mismo día,35.0,20180.0,Pendiente,Moto
+1593,2026-10-24,Medellín,Estándar,23.0,27752.0,Cancelada,Camioneta
+1594,2026-10-24,Ibagué,Express,51.0,15624.0,Entregada,Camioneta
+1595,2026-10-25,Medellín,Mismo día,60.0,28374.0,En tránsito,Furgón
+1596,2026-10-25,Bucaramanga,Programada,1.0,14249.0,Cancelada,Camioneta
+1597,2026-10-26,Villavicencio,Estándar,44.0,8194.0,En tránsito,Camioneta
+1598,2026-10-26,Bucaramanga,Programada,79.0,15440.0,Cancelada,Moto
+1599,2026-10-27,Villavicencio,Programada,23.0,8219.0,Entregada,Furgón
+1600,2026-10-27,Villavicencio,Express,23.0,7960.0,Pendiente,Camioneta
+1601,2026-10-28,Villavicencio,Mismo día,70.0,27031.0,Cancelada,Moto
+1602,2026-10-28,Bucaramanga,Estándar,5.0,24869.0,Cancelada,Furgón
+1603,2026-10-29,Bucaramanga,Programada,32.0,10530.0,Entregada,Moto
+1604,2026-10-29,Bogotá,Mismo día,37.0,25943.0,Cancelada,Moto
+1605,2026-10-30,Bucaramanga,Programada,64.0,6722.0,En tránsito,Moto
+1606,2026-10-30,Villavicencio,Programada,11.0,12110.0,En tránsito,Camioneta
+1607,2026-10-31,Medellín,Estándar,35.0,22653.0,En tránsito,Moto
+1608,2026-10-31,Villavicencio,Express,13.0,12595.0,Pendiente,Furgón
+1609,2026-11-01,Ibagué,Estándar,63.0,23263.0,Pendiente,Camioneta
+1610,2026-11-01,Ibagué,Mismo día,50.0,26859.0,En tránsito,Moto
+1611,2026-11-02,Ibagué,Programada,40.0,6651.0,Entregada,Moto
+1612,2026-11-02,Cali,Estándar,32.0,5599.0,Cancelada,Camioneta
+1613,2026-11-03,Bucaramanga,Mismo día,13.0,28500.0,Entregada,Moto
+1614,2026-11-03,Cali,Mismo día,73.0,18011.0,Entregada,Furgón
+1615,2026-11-04,Bucaramanga,Mismo día,52.0,17662.0,Pendiente,Moto
+1616,2026-11-04,Villavicencio,Estándar,26.0,16592.0,En tránsito,Camioneta
+1617,2026-11-05,Medellín,Programada,33.0,15840.0,Pendiente,Moto
+1618,2026-11-05,Medellín,Programada,58.0,22253.0,Cancelada,Moto
+1619,2026-11-06,Bogotá,Estándar,57.0,19494.0,Entregada,Moto
+1620,2026-11-06,Bogotá,Estándar,37.0,9084.0,En tránsito,Moto
+1621,2026-11-07,Cali,Express,24.0,20666.0,Pendiente,Furgón
+1622,2026-11-07,Cali,Estándar,53.0,21708.0,Cancelada,Furgón
+1623,2026-11-08,Bogotá,Programada,53.0,7840.0,Pendiente,Furgón
+1624,2026-11-08,Cali,Mismo día,48.0,14418.0,En tránsito,Moto
+1625,2026-11-09,Villavicencio,Mismo día,,24763.0,Pendiente,Furgón
+1626,2026-11-09,Medellín,Express,38.0,20468.0,Cancelada,Camioneta
+1627,2026-11-10,Cali,Programada,49.0,8409.0,En tránsito,Moto
+1628,2026-11-10,Cali,Express,76.0,6002.0,Cancelada,Moto
+1629,2026-11-11,Villavicencio,Programada,42.0,19530.0,Cancelada,Camioneta
+1630,2026-11-11,Cali,Estándar,28.0,16543.0,En tránsito,Camioneta
+1631,2026-11-12,Bucaramanga,Estándar,44.0,29027.0,Entregada,Moto
+1632,2026-11-12,Medellín,Programada,15.0,18056.0,Cancelada,Furgón
+1633,2026-11-13,Cali,Estándar,8.0,28288.0,Entregada,Furgón
+1634,2026-11-13,Cali,Mismo día,54.0,10358.0,En tránsito,Camioneta
+1635,2026-11-14,Medellín,Programada,78.0,16183.0,Entregada,Furgón
+1636,2026-11-14,Bucaramanga,Mismo día,67.0,8490.0,Pendiente,Furgón
+1637,2026-11-15,Medellín,Programada,47.0,19356.0,En tránsito,Furgón
+1638,2026-11-15,Medellín,Estándar,4.0,,Pendiente,Moto
+1639,2026-11-16,Bucaramanga,Mismo día,79.0,17307.0,Cancelada,Furgón
+1640,2026-11-16,Ibagué,Estándar,36.0,13603.0,Cancelada,Camioneta
+1641,2026-11-17,Bucaramanga,Programada,23.0,9643.0,Cancelada,Furgón
+1642,2026-11-17,Ibagué,Express,71.0,7420.0,Entregada,Furgón
+1643,2026-11-18,Ibagué,Express,59.0,17801.0,En tránsito,Moto
+1644,2026-11-18,Cali,Programada,60.0,28683.0,Entregada,Camioneta
+1645,2026-11-19,,Express,22.0,9968.0,Cancelada,Moto
+1646,2026-11-19,Medellín,Mismo día,79.0,15125.0,Pendiente,Moto
+1647,2026-11-20,Cali,Mismo día,,10615.0,En tránsito,Camioneta
+1648,2026-11-20,Villavicencio,Programada,42.0,25225.0,Pendiente,Furgón
+1649,2026-11-21,Ibagué,Programada,60.0,15372.0,Pendiente,Furgón
+1650,2026-11-21,Ibagué,Programada,53.0,,En tránsito,Camioneta
+1651,2026-11-22,Cali,Express,14.0,11129.0,En tránsito,Moto
+1652,2026-11-22,Villavicencio,Estándar,24.0,7018.0,Entregada,Camioneta
+1653,2026-11-23,,Estándar,29.0,19563.0,En tránsito,Furgón
+1654,2026-11-23,Bucaramanga,Mismo día,75.0,21292.0,En tránsito,Furgón
+1655,2026-11-24,Villavicencio,Express,57.0,29769.0,Cancelada,Moto
+1656,2026-11-24,Villavicencio,Estándar,29.0,26786.0,Cancelada,Moto
+1657,2026-11-25,Bucaramanga,Estándar,59.0,27105.0,Cancelada,Furgón
+1658,2026-11-25,Villavicencio,Express,59.0,20856.0,Entregada,Moto
+1659,2026-11-26,Bogotá,Express,32.0,13995.0,Cancelada,Moto
+1660,2026-11-26,Medellín,Estándar,32.0,15726.0,En tránsito,Moto
+1661,2026-11-27,Medellín,Express,71.0,8343.0,En tránsito,Camioneta
+1662,2026-11-27,Bucaramanga,Express,45.0,15777.0,Cancelada,Camioneta
+1663,2026-11-28,Bogotá,Estándar,12.0,14111.0,Cancelada,Camioneta
+1664,2026-11-28,Medellín,Express,57.0,5897.0,Entregada,Moto
+1665,2026-11-29,Villavicencio,Programada,47.0,10111.0,En tránsito,Furgón
+1666,2026-11-29,Bucaramanga,Express,41.0,18365.0,Pendiente,Furgón
+1667,2026-11-30,Villavicencio,Estándar,58.0,14233.0,Pendiente,Camioneta
+1668,2026-11-30,Ibagué,Estándar,72.0,29839.0,En tránsito,Moto
+1669,2026-12-01,Ibagué,Mismo día,27.0,16963.0,Pendiente,Camioneta
+1670,2026-12-01,Bogotá,Programada,34.0,28968.0,Cancelada,Furgón
+1671,2026-12-02,Ibagué,Mismo día,15.0,21518.0,Entregada,Camioneta
+1672,2026-12-02,Villavicencio,Estándar,52.0,6010.0,Pendiente,Moto
+1673,2026-12-03,Villavicencio,Estándar,32.0,10086.0,Pendiente,Camioneta
+1674,2026-12-03,Bogotá,Estándar,28.0,22645.0,Cancelada,Camioneta
+1675,2026-12-04,Villavicencio,Mismo día,56.0,18628.0,En tránsito,Camioneta
+1676,2026-12-04,Bucaramanga,Mismo día,33.0,12544.0,Entregada,Camioneta
+1677,2026-12-05,Villavicencio,Mismo día,37.0,18052.0,Pendiente,Moto
+1678,2026-12-05,Bogotá,Mismo día,35.0,27575.0,Pendiente,Furgón
+1679,2026-12-06,Villavicencio,Programada,21.0,14718.0,En tránsito,Camioneta
+1680,2026-12-06,Ibagué,Programada,10.0,6127.0,Cancelada,Camioneta
+1681,2026-12-07,Bucaramanga,Mismo día,66.0,12774.0,Cancelada,Camioneta
+1682,2026-12-07,Bogotá,Estándar,8.0,28397.0,Entregada,Camioneta
+1683,2026-12-08,Ibagué,Estándar,26.0,24045.0,Cancelada,Moto
+1684,2026-12-08,Ibagué,Mismo día,53.0,25937.0,Entregada,Furgón
+1685,2026-12-09,Medellín,Estándar,11.0,27791.0,En tránsito,Moto
+1686,2026-12-09,,Express,52.0,7937.0,Entregada,Camioneta
+1687,2026-12-10,Cali,Programada,58.0,12067.0,En tránsito,Moto
+1688,2026-12-10,Villavicencio,Estándar,53.0,6495.0,Cancelada,Moto
+1689,2026-12-11,Cali,Mismo día,25.0,5118.0,En tránsito,Moto
+1690,2026-12-11,Bucaramanga,Mismo día,2.0,25868.0,Pendiente,Furgón
+1691,2026-12-12,Ibagué,Estándar,71.0,28424.0,Entregada,Camioneta
+1692,2026-12-12,Bucaramanga,Programada,26.0,8894.0,Pendiente,Camioneta
+1693,2026-12-13,Ibagué,Mismo día,,23054.0,En tránsito,Furgón
+1694,2026-12-13,Ibagué,Programada,16.0,18372.0,Pendiente,Moto
+1695,2026-12-14,Bogotá,Express,13.0,6730.0,Cancelada,Camioneta
+1696,2026-12-14,Medellín,Programada,62.0,27894.0,Pendiente,Camioneta
+1697,2026-12-15,Bucaramanga,Programada,75.0,26781.0,Entregada,Camioneta
+1698,2026-12-15,Villavicencio,Programada,68.0,19186.0,En tránsito,Moto
+1699,2026-12-16,Bogotá,Express,60.0,22697.0,Entregada,Furgón
+1700,2026-12-16,Bogotá,Estándar,20.0,14931.0,En tránsito,Moto
+1006,2026-01-03,Ibagué,Programada,13.0,11879.0,Cancelada,Furgón
+1021,2026-01-11,Villavicencio,Express,76.0,24228.0,Pendiente,Furgón
+1036,2026-01-18,Bogotá,Programada,9.0,22136.0,Pendiente,Moto
+1051,2026-01-26,Bucaramanga,Mismo día,24.0,13203.0,Entregada,Camioneta
+1076,2026-02-07,Cali,Mismo día,24.0,24065.0,Pendiente,Furgón
+1101,2026-02-20,Bucaramanga,Express,42.0,14150.0,Pendiente,Camioneta
+1126,2026-03-04,Villavicencio,Express,4.0,20492.0,Entregada,Furgón
+1151,2026-03-17,MEDELLIN,Mismo día,23.0,17660.0,Entregada,Moto
+1176,2026-03-29,Cali,Programada,26.0,15619.0,En tránsito,Camioneta
+1201,2026-04-11,Cali,Express,24.0,11685.0,Cancelada,Moto
+1226,2026-04-23,Medellín,Mismo día,79.0,25579.0,Pendiente,Furgón
+1251,2026-05-06,Medellín,Express,15.0,18470.0,Cancelada,Camioneta
